@@ -9,7 +9,7 @@ input.cols = "100";
 input.rows = "15";
 input.style.resize = "none";
 input.placeholder = "Switch lang 'Shift + Alt', designed for MS Windows";
-input.style.width = "1020px";
+input.style.width = "1060px";
 input.style.height = "200px";
 input.style.fontSize = "25px";
 TextInput.appendChild(input);
