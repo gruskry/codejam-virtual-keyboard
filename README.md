@@ -1,1 +1,1 @@
- gruskry.github.io/codejam-virtual-keyboard/
+https://gruskry.github.io/codejam-virtual-keyboard/
