@@ -5,8 +5,14 @@
     resize: none;
   }
   
+
+  body {
+    margin: 0 auto;
+    width: 1060px;
+  }
+
   .keyboard-area {
-    width: 1020px;
+    width: 1060px;
     padding: 5px 0;
     user-select: none;
     background-color: gainsboro;
@@ -15,9 +21,8 @@
   
   .keyboard__keys {
   
-    display: flex;
-    flex-wrap: wrap;
-    width: 1020px;
+
+    width: 1060px;
   }
   
   .keyboard__key {
