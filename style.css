@@ -1,0 +1,67 @@
+.text-input {
+    width: auto;
+    height: auto;
+    padding: 15px;
+    resize: none;
+  }
+  
+
+  body {
+    margin: 0 auto;
+    width: 1060px;
+  }
+
+  .keyboard-area {
+    width: 1060px;
+    padding: 5px 0;
+    user-select: none;
+    background-color: gainsboro;
+    margin-left: 15px;
+  }
+  
+  .keyboard__keys {
+  
+
+    width: 1060px;
+  }
+  
+  .keyboard__key {
+    width: auto;
+    max-width: 210px;
+    min-width: 64px;
+    min-height: 60px;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 20px;
+    color: black;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    transition: border-radius 0.3s, background 0.2s;
+    border: 2px solid black;
+  }
+  
+  .wide {
+    padding: 15px 205px;
+  }
+  
+  .keyboard__key:hover {
+    background-color: #d43131;
+    border: 2px solid white;
+  }
+  
+  .keyboard__key:active {
+    border-radius: 30px;
+    background-color: #d43131;
+    border: 2px solid white;
+  }
+  
+  .physical-key-press {
+    border-radius: 30px;
+    background-color: #d43131;
+    border: 2px solid white;
+  }
+  
+  
+  
